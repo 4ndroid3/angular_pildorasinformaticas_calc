@@ -7,7 +7,7 @@ Proyecto de mini calculadora para probar y practicar los **Bindings bidirecciona
 Instalacion de Bootstrap con el comando:
 `npm install bootstrap --save`
 
-Luego se declara la ruta de los archivos css y js de bootstrap:
+Luego se declara la ruta de los archivos css y js de bootstrap en el archivo angular.JSON:
 ```json
 "styles": [
               "src/styles.css",
